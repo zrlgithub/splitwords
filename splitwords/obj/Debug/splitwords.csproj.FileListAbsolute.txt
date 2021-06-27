@@ -1,0 +1,16 @@
+C:\Users\ZRL\source\repos\splitwords\splitwords\bin\Debug\splitwords.exe.config
+C:\Users\ZRL\source\repos\splitwords\splitwords\bin\Debug\splitwords.exe
+C:\Users\ZRL\source\repos\splitwords\splitwords\bin\Debug\splitwords.pdb
+C:\Users\ZRL\source\repos\splitwords\splitwords\obj\Debug\splitwords.csprojAssemblyReference.cache
+C:\Users\ZRL\source\repos\splitwords\splitwords\obj\Debug\splitwords.Form1.resources
+C:\Users\ZRL\source\repos\splitwords\splitwords\obj\Debug\splitwords.Properties.Resources.resources
+C:\Users\ZRL\source\repos\splitwords\splitwords\obj\Debug\splitwords.csproj.GenerateResource.cache
+C:\Users\ZRL\source\repos\splitwords\splitwords\obj\Debug\splitwords.csproj.CoreCompileInputs.cache
+C:\Users\ZRL\source\repos\splitwords\splitwords\obj\Debug\splitwords.exe
+C:\Users\ZRL\source\repos\splitwords\splitwords\obj\Debug\splitwords.pdb
+C:\Users\ZRL\source\repos\splitwords\splitwords\obj\Debug\splitwords.Form2.resources
+C:\Users\ZRL\source\repos\splitwords\splitwords\bin\Debug\EntityFramework.dll
+C:\Users\ZRL\source\repos\splitwords\splitwords\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZRL\source\repos\splitwords\splitwords\bin\Debug\EntityFramework.xml
+C:\Users\ZRL\source\repos\splitwords\splitwords\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZRL\source\repos\splitwords\splitwords\obj\Debug\splitwords.csproj.CopyComplete

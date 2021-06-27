@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PSOModelStoreContainer" CdmEntityContainer="PSOEntities">
+    <EntitySetMapping Name="People">
+      <EntityTypeMapping TypeName="PSOModel.Person">
+        <MappingFragment StoreEntitySet="People">
+          <ScalarProperty Name="IP" ColumnName="IP" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Words">
+      <EntityTypeMapping TypeName="PSOModel.Word">
+        <MappingFragment StoreEntitySet="Words">
+          <ScalarProperty Name="word1" ColumnName="word" />
+          <ScalarProperty Name="frequency" ColumnName="frequency" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="id_people" ColumnName="id_people" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
